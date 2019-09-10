@@ -1,2 +1,7 @@
-# 75.06-Datos-TP1-2019
-Trabajo Práctico Nro.1 - Organizacion de Datos - Primer Cuatrimestre del 2019
+# Trabajo Práctico Nro.1 - Grupo 30 - Datahunter
+|          Integrantes         | Padrón |
+|------------------------------|--------|
+|  Bobadilla Catalan, German   |  90123 |
+|     Briglia, Antonella       |  90903 |
+|   Calvani, Sergio Alejandro  |  98588 |
+|  Fernandez Pandolfo, Franco  | 100467 |
